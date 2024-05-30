@@ -1,5 +1,5 @@
 ## <h1> Hi 👋, I'm Kemal <h1/>
-A passionate Full Stack Web Developer from Turkey
+## A passionate Full Stack Web Developer from Turkey
 <br/>
 <br/>
 Connect with me:
