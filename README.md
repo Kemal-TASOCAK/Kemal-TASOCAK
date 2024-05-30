@@ -1,4 +1,4 @@
-![mongodb-original-wordmark](https://github.com/Kemal-TASOCAK/Kemal-TASOCAK/assets/59031493/1f0b4b5e-4396-4c1d-9c7a-bf90cfd43d00)## Hi 👋, I'm Kemal
+## Hi 👋, I'm Kemal
 A passionate Full Stack Web Developer from Turkey
 <br/>
 <br/>
