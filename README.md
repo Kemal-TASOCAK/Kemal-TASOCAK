@@ -1,7 +1,7 @@
 ![linked-in-alt](https://github.com/Kemal-TASOCAK/Kemal-TASOCAK/assets/59031493/f977d5f8-b651-44c0-9197-3f1099f4433b)  ## Hi 👋, I'm Kemal
 ## A passionate Full Stack Web Developer from Turkey
 ## Connect with me:
-## ![Uploading linked-in-alt.svg…](linkedin.com/in/kemal-kıyam-taşocak-54109a271)
+## linkedin.com/in/kemal-kıyam-taşocak-54109a271
 
 
 
