@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Kemal
 
 <!--
+A passionate Full Stack Web Developer and Youtube Content Creator from Turkey
 **Kemal-TASOCAK/Kemal-TASOCAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: A passionate Full Stack Web Developer from Turkey
