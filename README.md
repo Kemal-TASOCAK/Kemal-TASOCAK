@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Kemal
 ## A passionate Full Stack Web Developer from Turkey
 ## Connect with me:
-![linked-in-alt](linkedin.com/in/kemal-kıyam-taşocak-54109a271) 
+## linkedin.com/in/kemal-kıyam-taşocak-54109a271
 
 
 <!--
