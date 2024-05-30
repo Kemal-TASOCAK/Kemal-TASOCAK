@@ -1,5 +1,8 @@
-                          ## Hi 👋, I'm Kemal
+  ## Hi 👋, I'm Kemal
 ## A passionate Full Stack Web Developer and Youtube Content Creator from Turkey
+Connect with me:
+
+![Uploading twitter.svg…]()
 
 <!--
 ## A passionate Full Stack Web Developer and Youtube Content Creator from Turkey
