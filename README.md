@@ -1,14 +1,13 @@
   ## Hi 👋, I'm Kemal
-## A passionate Full Stack Web Developer and Youtube Content Creator from Turkey
+## A passionate Full Stack Web Developer from Turkey
 Connect with me:
-
-![Uploading twitter.svg…]()
+linkedin.com/in/kemal-kıyam-taşocak-54109a271
 
 <!--
 ## A passionate Full Stack Web Developer and Youtube Content Creator from Turkey
 **Kemal-TASOCAK/Kemal-TASOCAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: A passionate Full Stack Web Developer from Turkey
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
